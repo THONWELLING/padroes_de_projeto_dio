@@ -1,4 +1,4 @@
-package projectpatterns.thonwelling;
+package com.thonwelling.gof.singleton;
 
 
 /**

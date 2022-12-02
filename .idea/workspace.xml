@@ -5,18 +5,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c747876e-e8dd-4f14-a0ee-007471f3f6ab" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jpa-buddy.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab-padroes-projeto-java.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/projectpatterns/thonwelling/SingletonEager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/projectpatterns/thonwelling/SingletonLazy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/projectpatterns/thonwelling/SingletonLazyHolder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/projectpatterns/thonwelling/Teste.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/thonwelling/gof/Teste.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/thonwelling/gof/facade/Facade.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/thonwelling/gof/strategyMode/Comportamento.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/thonwelling/gof/strategyMode/ComportamentoDefensivo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/thonwelling/gof/strategyMode/ComportamentoNormal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/thonwelling/gof/strategyMode/ComportamentoOfensivo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/thonwelling/gof/strategyMode/Robo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/subsistema1/crm/CrmService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/subsistema2/CepApi.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/projectpatterns/thonwelling/SingletonEager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/thonwelling/gof/singleton/SingletonEager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/projectpatterns/thonwelling/SingletonLazy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/thonwelling/gof/singleton/SingletonLazy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/projectpatterns/thonwelling/SingletonLazyHolder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/thonwelling/gof/singleton/SingletonLazyHolder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/projectpatterns/thonwelling/Teste.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,6 +28,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -39,7 +42,6 @@
   <component name="ProjectId" id="2IKpWnMlxdFSgoewrpYt3n36iMC" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
-    <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
@@ -51,6 +53,7 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="java.projectpatterns.thonwelling.strategy" />
       <recent name="java.projectpatterns.thonwelling" />
     </key>
   </component>
